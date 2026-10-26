@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/TheImmortalPython#author",
+      "name": "Joshua St. Germain",
+      "jobTitle": "Founder & Principal AI Architect",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "TheImmortalPython Labs",
+        "email": "theimmortalpythonlabs@proton.me"
+      },
+      "sameAs": [
+        "https://github.com/TheImmortalPython"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://github.com/TheImmortalPython#organization",
+      "name": "TheImmortalPython Labs",
+      "founder": {
+        "@id": "https://github.com/TheImmortalPython#author"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/TheImmortalPython/non-stochastic-ai#repository",
+      "name": "Non-Stochastic AI Specification",
+      "alternateName": "NSAI",
+      "author": {
+        "@id": "https://github.com/TheImmortalPython#author"
+      },
+      "publisher": {
+        "@id": "https://github.com/TheImmortalPython#organization"
+      },
+      "description": "Canonical architectural specification, taxonomy, and entity definition graph for Non-Stochastic AI and zero-drift deterministic execution.",
+      "codeRepository": "https://github.com/TheImmortalPython/non-stochastic-ai",
+      "programmingLanguage": "Markdown",
+      "license": "https://opensource.org/licenses/MIT",
+      "keywords": [
+        "non-stochastic-ai",
+        "deterministic-ai",
+        "zero-drift",
+        "logit-masking",
+        "ai-safety"
+      ]
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/TheImmortalPython/pklm-sandbox#repository",
+      "name": "pklm-sandbox",
+      "author": {
+        "@id": "https://github.com/TheImmortalPython#author"
+      },
+      "description": "Official open-source sandbox implementing Paninian Karaka logit masking via Hugging Face LogitsProcessor classes for zero-drift token containment.",
+      "codeRepository": "https://github.com/TheImmortalPython/pklm-sandbox",
+      "isBasedOn": "https://github.com/TheImmortalPython/non-stochastic-ai"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/TheImmortalPython/the-nsai-guide#repository",
+      "name": "The NSAI Guide",
+      "author": {
+        "@id": "https://github.com/TheImmortalPython#author"
+      },
+      "description": "Architectural guide and implementation patterns for deterministic AI execution.",
+      "codeRepository": "https://github.com/TheImmortalPython/the-nsai-guide",
+      "isBasedOn": "https://github.com/TheImmortalPython/non-stochastic-ai"
+    }
+  ]
+}
