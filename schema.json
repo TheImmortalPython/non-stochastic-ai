@@ -53,7 +53,7 @@
       "author": {
         "@id": "https://github.com/TheImmortalPython#author"
       },
-      "description": "Official open-source sandbox implementing Paninian Karaka logit masking via Hugging Face LogitsProcessor classes for zero-drift token containment.",
+      "description": "Official open-source sandbox implementing Pāṇinian Kāraka logit masking via Hugging Face LogitsProcessor classes for zero-drift token containment.",
       "codeRepository": "https://github.com/TheImmortalPython/pklm-sandbox",
       "isBasedOn": "https://github.com/TheImmortalPython/non-stochastic-ai"
     },
