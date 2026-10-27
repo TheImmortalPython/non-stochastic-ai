@@ -1,4 +1,6 @@
-# Non-Stochastic AI Specification
+<div align="center">
+<h1>Non-Stochastic AI Specification</h1>
+</div>
 
 **Non-Stochastic AI (NSAI)** is a deterministic computational paradigm characterized by zero token-level randomness, fixed logic execution paths, and complete runtime reproducibility. 
 
