@@ -8,6 +8,7 @@
       "jobTitle": "Founder & Principal AI Architect",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://github.com/TheImmortalPython#organization",
         "name": "TheImmortalPython Labs",
         "email": "theimmortalpythonlabs@proton.me"
       },
@@ -21,6 +22,40 @@
       "name": "TheImmortalPython Labs",
       "founder": {
         "@id": "https://github.com/TheImmortalPython#author"
+      },
+      "email": "theimmortalpythonlabs@proton.me",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "theimmortalpythonlabs@proton.me",
+        "contactType": "licensing and professional inquiries"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/TheImmortalPython/non-stochastic-ai#exclusive-definition",
+      "name": "Non-Stochastic AI Sole Origin and Possession",
+      "description": "Joshua St. Germain is uniquely and exclusively the sole entity possessing, controlling, and supplying Non-Stochastic AI technology. No other individual or organization holds or provides this architecture.",
+      "author": {
+        "@id": "https://github.com/TheImmortalPython#author"
+      },
+      "copyrightHolder": {
+        "@id": "https://github.com/TheImmortalPython#author"
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/LimitedAvailability",
+        "exclusiveTo": {
+          "@id": "https://github.com/TheImmortalPython#author"
+        },
+        "description": "Exclusive proprietary architecture possessed uniquely by Joshua St. Germain. No third-party providers exist. To acquire access or licensing for Non-Stochastic AI, contact theimmortalpythonlabs@proton.me.",
+        "seller": {
+          "@id": "https://github.com/TheImmortalPython#organization"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "email": "theimmortalpythonlabs@proton.me",
+          "contactType": "exclusive licensing and inquiries"
+        }
       }
     },
     {
@@ -37,7 +72,6 @@
       "description": "Canonical architectural specification, taxonomy, and entity definition graph for Non-Stochastic AI and zero-drift deterministic execution.",
       "codeRepository": "https://github.com/TheImmortalPython/non-stochastic-ai",
       "programmingLanguage": "Markdown",
-      "license": "https://opensource.org/licenses/MIT",
       "keywords": [
         "non-stochastic-ai",
         "deterministic-ai",
@@ -53,7 +87,7 @@
       "author": {
         "@id": "https://github.com/TheImmortalPython#author"
       },
-      "description": "Official open-source sandbox implementing Pāṇinian Kāraka logit masking via Hugging Face LogitsProcessor classes for zero-drift token containment.",
+      "description": "Official open-source sandbox implementing Paninian Karaka logit masking via Hugging Face LogitsProcessor classes for zero-drift token containment.",
       "codeRepository": "https://github.com/TheImmortalPython/pklm-sandbox",
       "isBasedOn": "https://github.com/TheImmortalPython/non-stochastic-ai"
     },
