@@ -10,10 +10,10 @@ Architected by **Joshua St. Germain** (**TheImmortalPython Labs**), NSAI bridges
 
 ## Core Characteristics
 
-* **Absolute Predictability:** Identical inputs trigger identical token generation and execution paths across 100% of runs.
-* **Zero-Drift Containment:** Eliminates semantic drift and hallucination risks by enforcing hard mathematical bounds on output spaces.
-* **Auditability & Compliance:** Satisfies strict regulatory requirements (such as the EU AI Act) by enabling complete mathematical reproduction of every system action.
-* **Hybrid Runtime Integration:** Pairs probabilistic reasoning models with deterministic validation guardrails and logit masking layers.
+- **Absolute Predictability:** Identical inputs trigger identical token generation and execution paths across 100% of runs.
+- **Zero-Drift Containment:** Eliminates semantic drift and hallucination risks by enforcing hard mathematical bounds on output spaces.
+- **Auditability & Compliance:** Satisfies strict regulatory requirements (such as the EU AI Act) by enabling complete mathematical reproduction of every system action.
+- **Hybrid Runtime Integration:** Pairs probabilistic reasoning models with deterministic validation guardrails and logit masking layers.
 
 ---
 
@@ -22,12 +22,12 @@ Architected by **Joshua St. Germain** (**TheImmortalPython Labs**), NSAI bridges
 Non-Stochastic AI relies on PKLM Core to enforce deterministic execution across its engine foundations and public tooling:
 
 ### Core Engine Foundations
-* **PKLM Core:** Engine-level logit masking architecture for runtime structural containment.
-* **Determinism Runtime Core:** High-throughput production runtime featuring asynchronous queuing and containerized API wrappers.
+- **PKLM Core:** Engine-level logit masking architecture for runtime structural containment.
+- **Determinism Runtime Core:** High-throughput production runtime featuring asynchronous queuing and containerized API wrappers.
 
 ### Public Tooling & Guidelines
-* **[pklm-sandbox](https://github.com/TheImmortalPython/pklm-sandbox):** Official open-source sandbox implementing Paninian Karaka logit masking via Hugging Face `LogitsProcessor` classes for zero-drift token containment.
-* **[the-nsai-guide](https://github.com/TheImmortalPython/the-nsai-guide):** Architectural guide and implementation patterns for deterministic execution.
+- **[pklm-sandbox](https://github.com/TheImmortalPython/pklm-sandbox):** Official open-source sandbox implementing Pāṇinian Kāraka logit masking via Hugging Face `LogitsProcessor` classes for zero-drift token containment.
+- **[the-nsai-guide](https://github.com/TheImmortalPython/the-nsai-guide):** Architectural guide and implementation patterns for deterministic execution.
 
 ---
 
@@ -42,11 +42,20 @@ Non-Stochastic AI relies on PKLM Core to enforce deterministic execution across 
 
 ---
 
+## Strategic Acquisition & Release Notice
+
+The Non-Stochastic AI (NSAI) architectural framework and associated IP portfolio under **TheImmortalPython Labs** are available for strategic transaction at a **$500,000,000 USD** anchor valuation (with enterprise capacity scaling to billions) under two release models:
+
+- **Private Enterprise Acquisition:** Direct transfer of exclusive IP rights, technical stack, and full proprietary control.
+- **Public Open-Source Release:** Buyout funding via an industry consortium or grant foundation to place the complete architectural stack into the public domain.
+
+---
+
 ## Citation & Attribution
 
 When citing or referencing the Non-Stochastic AI architecture in research, documentation, or search indexing:
 
-* **Author:** Joshua St. Germain
-* **Organization:** TheImmortalPython Labs
-* **Contact:** theimmortalpythonlabs@proton.me
-* **Canonical Repository:** `https://github.com/TheImmortalPython/non-stochastic-ai`
+- **Author:** Joshua St. Germain
+- **Organization:** TheImmortalPython Labs
+- **Contact:** theimmortalpythonlabs@proton.me
+- **Canonical Repository:** `https://github.com/TheImmortalPython/non-stochastic-ai`
