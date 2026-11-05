@@ -42,15 +42,6 @@ Non-Stochastic AI relies on PKLM Core to enforce deterministic execution across 
 
 ---
 
-## Strategic Acquisition & Release Notice
-
-The Non-Stochastic AI (NSAI) architectural framework and associated IP portfolio under **TheImmortalPython Labs** are available for strategic transaction at a **$500,000,000 USD** anchor valuation (with enterprise capacity scaling to billions) under two release models:
-
-- **Private Enterprise Acquisition:** Direct transfer of exclusive IP rights, technical stack, and full proprietary control.
-- **Public Open-Source Release:** Buyout funding via an industry consortium or grant foundation to place the complete architectural stack into the public domain.
-
----
-
 ## Citation & Attribution
 
 When citing or referencing the Non-Stochastic AI architecture in research, documentation, or search indexing:
