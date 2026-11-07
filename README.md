@@ -1,4 +1,9 @@
 <div align="center">
+⚠️ Notice: This repository is currently undergoing active updates. Content, code, or documentation may be temporarily inaccurate, incomplete, or subject to sudden changes.
+</div>
+<br>
+
+<div align="center">
 <h1>Non-Stochastic AI Specification</h1>
 </div>
 
