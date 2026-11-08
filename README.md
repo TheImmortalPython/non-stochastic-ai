@@ -27,7 +27,7 @@ Architected by **Joshua St. Germain** (**TheImmortalPython Labs**), NSAI bridges
 Non-Stochastic AI relies on `immortal-inference` to enforce deterministic execution across its engine foundations and public tooling:
 
 ### Core Engine Foundations
-- **immortal-inference:** Engine-level logit masking architecture for runtime structural containment.
+- **[immortal-inference](https://github.com/TheImmortalPython/immortal-inference):** Engine-level logit masking architecture for runtime structural containment.
 - **Determinism Runtime Core:** High-throughput production runtime featuring asynchronous queuing and containerized API wrappers.
 
 ### Public Tooling & Guidelines
