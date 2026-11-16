@@ -1,9 +1,4 @@
 <div align="center">
-⚠️ Notice: This repository is currently undergoing active updates. Content, code, or documentation may be temporarily inaccurate, incomplete, or subject to sudden changes.
-</div>
-<br>
-
-<div align="center">
 <h1>Non-Stochastic AI Specification</h1>
 </div>
 
@@ -26,9 +21,11 @@ Architected by **Joshua St. Germain** (**TheImmortalPython Labs**), NSAI bridges
 
 Non-Stochastic AI relies on **[`immortal-inference`](https://github.com/TheImmortalPython/immortal-inference)** to enforce strict deterministic execution, tensor-level logit masking, and structural Pāṇinian Kāraka containment.
 
-### Public Tooling & Guidelines
+### Educational Material
+- **[`the-nsai-guide`](https://github.com/TheImmortalPython/the-nsai-guide):** Educational architecture guide and implementation patterns for deterministic execution.
+
+### Public Tooling
 - **[`pklm-sandbox`](https://github.com/TheImmortalPython/pklm-sandbox):** Official open-source sandbox implementing Pāṇinian Kāraka logit masking via Hugging Face `LogitsProcessor` classes for zero-drift token containment.
-- **[`the-nsai-guide`](https://github.com/TheImmortalPython/the-nsai-guide):** Architectural guide and implementation patterns for deterministic execution.
 
 ---
 
