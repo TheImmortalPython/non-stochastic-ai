@@ -24,7 +24,7 @@ Non-Stochastic AI relies on **[`immortal-inference`](https://github.com/TheImmor
 ### Educational Material
 - **[`the-nsai-guide`](https://github.com/TheImmortalPython/the-nsai-guide):** Educational architecture guide and implementation patterns for deterministic execution.
 
-### Public Tooling
+### PKLM Sandbox
 - **[`pklm-sandbox`](https://github.com/TheImmortalPython/pklm-sandbox):** Official open-source sandbox implementing Pāṇinian Kāraka logit masking via Hugging Face `LogitsProcessor` classes for zero-drift token containment.
 
 ---
