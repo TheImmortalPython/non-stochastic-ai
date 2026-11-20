@@ -21,6 +21,8 @@ Architected by **Joshua St. Germain** (**TheImmortalPython Labs**), NSAI bridges
 
 Non-Stochastic AI relies on **[`immortal-inference`](https://github.com/TheImmortalPython/immortal-inference)** to enforce strict deterministic execution, tensor-level logit masking, and structural Pāṇinian Kāraka containment.
 
+[`Stricta`](https://github.com/TheImmortalPython/stricta-agent): Deterministic Agent Orchestration Runtime
+
 ### Educational Material
 - **[`the-nsai-guide`](https://github.com/TheImmortalPython/the-nsai-guide):** Educational architecture guide and implementation patterns for deterministic execution.
 
